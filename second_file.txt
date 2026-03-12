@@ -1,1 +1,2 @@
 This is the second file I made in practicing git and github
+This an added text to practice push, fetch and pull in github.
